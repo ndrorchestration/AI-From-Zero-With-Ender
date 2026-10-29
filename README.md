@@ -19,9 +19,15 @@ This repository is the GitHub home for the channel. It collects source links, ed
 
 Episode topics and titles are intentionally omitted where not independently confirmed. Planned companion material belongs under `examples/` and `graphics/` when supplied and cleared for redistribution.
 
+## Teaching resources
+
+- [Episode publishing template](episodes/EPISODE_TEMPLATE.md) for consistent lesson summaries, source citations, and corrections
+- [Practical examples](examples/README.md) and [educational graphics](graphics/README.md), published only with appropriate provenance and rights
+- [Channel integration instructions](docs/SETUP.md) for profile pinning, YouTube links, and future releases
+
 ## Tracking
 
-[Analytics snapshots](analytics/README.md) record exact measurement windows and avoid presenting impressions as views or combining overlapping periods.
+[Analytics CSV](analytics/snapshots.csv) and [analytics notes](analytics/README.md) record exact measurement windows and avoid presenting impressions as views or combining overlapping periods.
 
 ## Corrections
 
