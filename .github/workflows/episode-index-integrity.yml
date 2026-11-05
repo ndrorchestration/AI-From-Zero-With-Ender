@@ -1,0 +1,35 @@
+name: Episode index integrity
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+      - "episodes/README.md"
+      - "scripts/validate_episode_index.py"
+      - ".github/workflows/episode-index-integrity.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "episodes/README.md"
+      - "scripts/validate_episode_index.py"
+      - ".github/workflows/episode-index-integrity.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout exact commit
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check validator invariants
+        run: python3 scripts/validate_episode_index.py --self-test
+      - name: Validate public episode index and register
+        run: python3 scripts/validate_episode_index.py
