@@ -1,29 +1,24 @@
 # AI From Zero With Ender
 
-An educational video series exploring AI concepts, practical learning, and the journey from foundational ideas toward real AI systems.
+An educational series exploring AI concepts, practical prompting, and what happens when real AI systems miss the intention behind a request.
 
-**Episode 7 (October 31, 2026):** [Apple's NEW Siri AI Is Here… Could It Replace ChatGPT?](https://www.youtube.com/watch?v=ftpILoSfH3M)
-
-**Episode 8:** Creator's November 5 YouTube Studio latest-video report identifies **“Why AI Can Follow Your Instructions—and Still Miss the Point?”** as live; exact watch URL and platform publish date not yet captured in this repository.
-
-**Episode 6 (October 28, 2026):** https://www.youtube.com/watch?v=hRy3sUe6bH4
-
-This repository is the GitHub home for the channel. It collects source links, educational follow-ups, corrections, and dated channel analytics. This is distinct from engineering release evidence.
+**Current public catalog:** Episodes 1–9 published. Episode 10, “Smallest Reversible Next Step,” is **planned**, not published or creator-locked. The watch links below were reconciled against connected vidIQ channel data on 2026-11-15. This repository contains companion teaching resources and dated analytics receipts, not independent proof of production QA or model performance.
 
 ## Episode index
 
 | Episode | Video | Resources |
 | --- | --- | --- |
-| 1 | 5 AI Prompting Techniques That Get You Better Answers in 2026 — title from creator's October 25 Studio snapshot; watch link pending | [Episode register](episodes/README.md) |
-| 2 | Best AI Prompt hack: Why Does Word Order Matter in 2026? — title from creator's October 25 Studio snapshot; watch link pending | [Episode register](episodes/README.md) |
-| 3 | Stop Asking ChatGPT to Be Brutally Honest (Try This Instead) — title from creator's October 25 Studio snapshot; watch link pending | [Episode register](episodes/README.md) |
-| 4 | How to Make AI Admit What It Doesn't Know (Epistemic Honesty) — title from creator's October 25 Studio snapshot; watch link pending | [Episode register](episodes/README.md) |
-| 5 | Why AI Can Get the Facts Right—and Still Give the Wrong Answer! — title from creator's October 25 Studio snapshot; watch link pending | [Episode register](episodes/README.md) |
-| 6 | [Watch](https://www.youtube.com/watch?v=hRy3sUe6bH4) — The Secret Language of AI Prompts? Let's Experiment with a Game Changer; creator's Studio snapshot, published October 28, 2026 | [Episode register](episodes/README.md) |
-| 7 | [Watch](https://www.youtube.com/watch?v=ftpILoSfH3M) — creator-confirmed published October 31, 2026; title: Apple's NEW Siri AI Is Here… Could It Replace ChatGPT? | [Episode register](episodes/README.md) |
-| 8 | Creator-reported published as of November 5, 2026 — Why AI Can Follow Your Instructions—and Still Miss the Point?; watch URL pending verification | [Episode register](episodes/README.md) |
+| 1 | [5 AI Prompting Techniques That Get You Better Answers in 2026](https://www.youtube.com/watch?v=IV-WifIzGdY) | [Episode register](episodes/README.md) |
+| 2 | [Best AI Prompt hack: Why Does Word Order Matter in 2026?](https://www.youtube.com/watch?v=5hJWbpEQ1rE) | [Episode register](episodes/README.md) |
+| 3 | [Stop Asking ChatGPT to Be Brutally Honest (Try This Instead)](https://www.youtube.com/watch?v=uE-ttaGXUxk) | [Episode register](episodes/README.md) |
+| 4 | [How to Make AI Admit What It Doesn't Know (Epistemic Honesty)](https://www.youtube.com/watch?v=_LCkLcdSsv4) | [Episode register](episodes/README.md) |
+| 5 | [Why AI Can Get the Facts Right—and Still Give the Wrong Answer!](https://www.youtube.com/watch?v=yfKYzq6hNj8) | [Episode register](episodes/README.md) |
+| 6 | [The Secret Language of AI Prompts? Let's Experiment with a Game Changer](https://www.youtube.com/watch?v=hRy3sUe6bH4) | [Episode register](episodes/README.md) |
+| 7 | [Apple’s NEW Siri AI Is Here… Could It Replace ChatGPT?](https://www.youtube.com/watch?v=ftpILoSfH3M) | [Episode register](episodes/README.md) |
+| 8 | [Why AI Can Follow Your Instructions—and Still Miss the Point?](https://www.youtube.com/watch?v=L_IkNezgA_Y) | [Episode register](episodes/README.md) |
+| 9 | [Stop Asking AI for Generic Summaries! Try These 3 Sneaky Prompting Tricks](https://www.youtube.com/watch?v=r7WrGI0cb_s) | [Episode register](episodes/README.md) |
 
-Episode 1–6 titles now reflect creator-supplied YouTube Studio snapshots from October 25–28, 2026. The EP1–5 watch URLs and their current platform metadata remain unverified; historical titles are not guaranteed unchanged. The EP7 publication, title and URL are reported by the creator's Notion master episode record (2026-10-31); no independent YouTube API verification was performed in this documentation update. EP8 (Semantic Binding) was previously planned in the Notion production log, but a later creator-supplied YouTube Studio performance snapshot on November 5 reports the video live. The exact public watch URL and publication timestamp remain unverified here; do not infer either. Planned companion material belongs under `examples/` and `graphics/` when supplied and cleared for redistribution.
+Episode metadata dates, audit scope, and status evidence are maintained in [the episode register](episodes/README.md). The creator’s current editorial plan is in [Notion](https://app.notion.com/p/3fef5bad238b81faae73de6926dbed92). No historical publish claim should be inferred from a future production-plan heading.
 
 ## Teaching resources
 
@@ -33,7 +28,7 @@ Episode 1–6 titles now reflect creator-supplied YouTube Studio snapshots from 
 
 ## Tracking
 
-[Analytics CSV](analytics/snapshots.csv) and [analytics notes](analytics/README.md) record exact measurement windows and avoid presenting impressions as views or combining overlapping periods.
+[Analytics CSV](analytics/snapshots.csv), [analytics notes](analytics/README.md), and [vidIQ 2026-11-15 dated audit](analytics/vidiq-audit-2026-11-15.md) record exact measurement windows and avoid presenting impressions as views or combining overlapping periods.
 
 ## Corrections
 
